@@ -1,0 +1,13 @@
+html,body{
+    height: 100%;
+}
+
+#clock{
+    color: #fff;
+    font-size: 70px;
+    font-family: monospace;
+    position: relative;
+    top:50%;
+    margin-top: -70px;
+    text-align: center;
+}
